@@ -28,7 +28,7 @@ background-size: 100% 100%">
 <?php
 $firstname=$_POST['firstname'];
 $email=$_POST['email'];
-$servername = "sneha-database-instance.cz40e0u6exbq.us-east-2.rds.amazonaws.com";
+$servername = "sneha-db-instance.cpcccc04yoi1.us-east-1.rds.amazonaws.com";
 $username = "admin";
 $password = "intel123";
 $db = "intel";
